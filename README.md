@@ -1,3 +1,8 @@
+1. Entity Framework Code First Approach
+2. Repository Pattern
+
+``````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+
 <Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
@@ -21,5 +26,4 @@
 
 </Project>
 
-1. Entity Framework Code First Approach
-2. Repository Pattern
+````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
